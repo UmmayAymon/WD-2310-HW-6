@@ -1,0 +1,132 @@
+body{
+    background-color: #F2F4F8;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 25px;
+    
+}
+
+.heading-p{
+    color:#5D6D7E;
+    line-height: 35px;
+}
+
+.card1{
+    width: 200px;
+    background-color: #FFFFFF;
+    padding: 40px;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px 30px;
+    display: inline-block;
+    border-radius: 3%;
+
+
+}
+
+.card1 p{
+    color: #EF4A23;
+    font-weight: 900;
+
+}
+
+.maincard{
+    margin: auto;
+    width: fit-content;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    
+    
+}
+
+.category{
+    display: inline-block;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px gray;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px 30px;
+    padding: 40px;
+    border-radius: 3%;
+}
+
+.para{
+    text-decoration: none;
+    color: black;
+}
+
+.credit{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    text-align: right;
+}
+
+.card2{
+    display: inline-block;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 5px gray;
+    padding: 0px;
+    margin: 20px 10px;
+    border-radius: 5%;
+}
+
+ .card2 img{
+    width:450px;
+    border-radius: 5%;
+ }
+
+ .cardtxt{
+    padding: 20px;
+}
+
+.cardtxt img{
+    background-color: #434242;
+    width: 400px;
+}
+
+
+
+ .p1{
+    color: #EF4A23;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-weight: 300px;
+    font-size: 20px;
+    font-weight: 900;
+    /* margin: 5px; */
+ }
+
+ .card2 h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    margin-top: 10px;
+ }
+
+ .p2{
+    color: #434242;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 25px;
+    
+    
+ }
+
+ .button a{
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 20px;
+    color: #FF1E1E;
+    padding: 5px 20px;
+    border: 1px solid #FF1E1E;
+    border-radius: 9%;
+    display: inline-block;
+}
+
+
+
